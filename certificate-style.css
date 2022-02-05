@@ -1,0 +1,199 @@
+body{
+    font-family: sans-serif;
+}
+header{
+    background-color: #252729;
+}
+.nav-btn{
+    border: 2px solid #f4c90c;
+    color: #f4c90c;
+    background-color: #2d333A;
+}
+
+    /* Enroll styel Start */
+.enroll-sec{
+    background-image: linear-gradient(to right, #283895 0%, #343392 25%, #532688 50%, #73187E 75%, #8D0C76 100%);
+    color: white;
+    padding-top: 128px;
+    padding-bottom: 135px;
+    max-width: 100%;
+    width: 100%;
+}
+.start-date{
+    background-color: #212529;
+}
+.company-title{
+    font-size: 4em;
+}
+.text-transparent{
+    margin: 8px 100px 0px;
+    font-size: 16px;
+}
+.btn-detail{
+    border: none;
+    color: #e23d8f;
+    background-color: #ffffff;
+    font-size: 16px;
+    padding: 14px 30px;
+    cursor: pointer;
+}
+.btn-enroll{
+    margin-left: 20px;
+    border: 2px solid #fff;
+    color: #ffffff;
+    background-color: #343392;
+    font-size: 16px;
+    padding: 14px 30px;
+    cursor: pointer;
+}
+    /* Enroll styel End */
+
+    /* Section two style start */
+.sect-2{
+    background-color: #f6f7f8;
+    padding-top: 128px;
+    padding-bottom: 128px;
+}
+.profes-sec{
+    padding-bottom: 100px;
+}
+.profes-sec p{
+    font-size: 17px;
+}
+.tube-video{
+    border: 6px solid rgb(122, 81, 81);
+}
+    /* Section two style end */
+
+    /* Section three style start */
+.sect-3{
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: #283895;
+    color: #ffffff;
+}
+.comment{
+    font-size: 24px;
+}
+    /* Section three style end */
+
+
+    /* Section four style start */
+.sect-4{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.course-q{
+    font-weight: bolder;
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+.card{
+    border: none;
+    text-align: left;
+}
+.card-text{
+    font-size: 18px;
+}
+    /* Section four style end */
+
+    /* Section five style start */
+.sect-next{
+    background-color: #f6f7f8;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+.sect-next p{
+    color: black;
+}
+.next-course-date{
+    font-weight: bolder;
+    font-size: 45px;
+    padding-bottom: 25px;
+}
+.next-course-text{
+    background-color: rgb(206, 166, 65);
+    padding: 10px;
+}
+.price-card{
+    height: 400px;
+    padding-top: 50px;
+    background-color: #ffffff;
+}
+.btn-next-detail{
+    border: none;
+    color: #ffffff;
+    background-color: #e23d8f;
+    font-size: 17px;
+    font-weight: bold;
+    padding: 15px 70px;
+    cursor: pointer;
+}
+.enroll{
+    color: #e23d8f;
+}
+    /* Section five style end */
+
+
+    /* Section six style start */
+.input-form{
+    width: 25em;
+    height: 3em;
+    border: 1px solid lightgray;
+}
+.register-btn{
+    border: none;
+    color: white;
+    background-color: #e23d8f;
+    font-weight: bolder;
+    padding: 10px 30px;
+}
+.small-box{ 
+    width: 90%;
+    margin-top: 100px;
+    padding: 20px;
+}
+
+    /* Last Section style start */
+.design-sec{
+    background-color: #DC3545;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.last-img a img{
+    width: 50px;
+}
+.last-logo{
+    width: 50px;
+}
+.logo-title{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.last-info li a{
+    font-size: 15px;
+    color: #ffffff;
+    text-decoration: none;
+}
+.last-info li a:hover{
+    text-decoration: underline;
+}
+.last-info h5 a{
+    color: lightgray;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.last-course{
+    list-style: none;
+}
+.last-about{
+    list-style: none;
+}
+.uxdi{
+    list-style: none;
+}
+.contact{
+    list-style: none;
+}
